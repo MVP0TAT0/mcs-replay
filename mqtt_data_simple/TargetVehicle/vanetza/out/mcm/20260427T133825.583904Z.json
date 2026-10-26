@@ -1,0 +1,81 @@
+{
+  "timestamp": 1777297105.545429,
+  "rssi": -17,
+  "stationID": 200,
+  "stationAddr": "6e:06:e0:02:00:ee",
+  "receiverID": 149,
+  "receiverType": 5,
+  "packet_size": 108,
+  "fields": {
+    "header": {
+      "protocolVersion": 2,
+      "messageId": 20,
+      "stationId": 200
+    },
+    "payload": {
+      "basicContainer": {
+        "generationDeltaTime": 704381910.53,
+        "stationID": 200,
+        "stationType": 1,
+        "itssRole": 1,
+        "position": {
+          "latitude": 40.6282935,
+          "longitude": -8.6543148,
+          "positionConfidenceEllipse": {
+            "semiMajorAxisLength": 0,
+            "semiMinorAxisLength": 0,
+            "semiMajorAxisOrientation": 0
+          },
+          "altitude": {
+            "altitudeValue": 0.0,
+            "altitudeConfidence": 0
+          }
+        },
+        "mcmType": 7,
+        "manoeuvreId": 1,
+        "concept": 0,
+        "executionStatus": 1
+      },
+      "mcmContainer": {
+        "vehicleManoeuvreContainer": {
+          "vehicleCurrentStateContainer": {
+            "vehicleSpeed": {
+              "speedValue": 2.22,
+              "speedConfidence": 1.0
+            },
+            "vehicleHeading": {
+              "value": 2,
+              "confidence": 1
+            },
+            "vehicleSize": {
+              "vehicleType": 0,
+              "vehicleLenth": {
+                "vehicleLengthValue": 2.0,
+                "vehicleLengthConfidenceIndication": 0
+              },
+              "vehicleWidth": 61.0,
+              "vehicleHeight": 15
+            }
+          },
+          "submaneuvres": [
+            {
+              "submanoeuvreID": 0,
+              "temporalCharateristics": {
+                "tRROccupancyStartTime": 1,
+                "tRROccupancyEndTime": 2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "test": {
+    "start_processing_timestamp": 1777297105.545489,
+    "channel_frequency": 5880,
+    "channel_busy_time": 0.010134,
+    "channel_rx_time": 0.004242,
+    "channel_tx_time": 0.003193,
+    "json_timestamp": 1777297105.545773
+  }
+}

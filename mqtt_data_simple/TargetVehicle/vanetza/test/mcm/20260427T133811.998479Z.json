@@ -1,0 +1,578 @@
+{
+  "timestamp": 1777297091.93876,
+  "rssi": -18,
+  "stationID": 200,
+  "stationAddr": "6e:06:e0:02:00:ee",
+  "receiverID": 149,
+  "receiverType": 5,
+  "packet_size": 491,
+  "fields": {
+    "header": {
+      "protocolVersion": 2,
+      "messageId": 20,
+      "stationId": 200
+    },
+    "payload": {
+      "basicContainer": {
+        "generationDeltaTime": 704381896.93,
+        "stationID": 200,
+        "stationType": 1,
+        "itssRole": 1,
+        "position": {
+          "latitude": 40.6285274,
+          "longitude": -8.6544888,
+          "positionConfidenceEllipse": {
+            "semiMajorAxisLength": 0,
+            "semiMinorAxisLength": 0,
+            "semiMajorAxisOrientation": 0
+          },
+          "altitude": {
+            "altitudeValue": 0.0,
+            "altitudeConfidence": 0
+          }
+        },
+        "mcmType": 1,
+        "manoeuvreId": 1,
+        "concept": 0,
+        "rational": {
+          "manoeuvreCooperationGoal": 0
+        }
+      },
+      "mcmContainer": {
+        "vehicleManoeuvreContainer": {
+          "vehicleCurrentStateContainer": {
+            "vehicleSpeed": {
+              "speedValue": 22.0,
+              "speedConfidence": 1.0
+            },
+            "vehicleHeading": {
+              "value": 1602,
+              "confidence": 1
+            },
+            "vehicleSize": {
+              "vehicleType": 0,
+              "vehicleLenth": {
+                "vehicleLengthValue": 2.0,
+                "vehicleLengthConfidenceIndication": 0
+              },
+              "vehicleWidth": 61.0,
+              "vehicleHeight": 15
+            }
+          },
+          "submaneuvres": [
+            {
+              "submanoeuvreID": 0,
+              "temporalCharateristics": {
+                "tRROccupancyStartTime": 1,
+                "tRROccupancyEndTime": 2
+              },
+              "referenceTrajectory": {
+                "wayPointType": 1,
+                "wayPoints": [
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -8.24e-05,
+                      "deltaLongitude": 4.66e-05,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0001369,
+                      "deltaLongitude": 7.96e-05,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0001895,
+                      "deltaLongitude": 0.0001172,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0002314,
+                      "deltaLongitude": 0.0001834,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.000289,
+                      "deltaLongitude": 0.0002301,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0003435,
+                      "deltaLongitude": 0.000263,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0003979,
+                      "deltaLongitude": 0.000296,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0004601,
+                      "deltaLongitude": 0.0003207,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0005196,
+                      "deltaLongitude": 0.0003177,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0005758,
+                      "deltaLongitude": 0.0003449,
+                      "deltaAltitude": 0.0
+                    }
+                  }
+                ],
+                "speed": [
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  },
+                  {
+                    "speedValue": 22.0,
+                    "speedConfidence": 1.0
+                  }
+                ]
+              },
+              "targetRoadResourceIContainer": {
+                "trrType": 2,
+                "laneCount": 2,
+                "trrWidth": 5,
+                "trrLength": 10,
+                "waypoints": [
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -8.24e-05,
+                      "deltaLongitude": 4.66e-05,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0001369,
+                      "deltaLongitude": 7.96e-05,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0001895,
+                      "deltaLongitude": 0.0001172,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0002314,
+                      "deltaLongitude": 0.0001834,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.000289,
+                      "deltaLongitude": 0.0002301,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0003435,
+                      "deltaLongitude": 0.000263,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0003979,
+                      "deltaLongitude": 0.000296,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0004601,
+                      "deltaLongitude": 0.0003207,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0005196,
+                      "deltaLongitude": 0.0003177,
+                      "deltaAltitude": 0.0
+                    }
+                  },
+                  {
+                    "pathPosition": {
+                      "deltaLatitude": -0.0005758,
+                      "deltaLongitude": 0.0003449,
+                      "deltaAltitude": 0.0
+                    }
+                  }
+                ],
+                "heading": [
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  },
+                  {
+                    "value": 1554,
+                    "confidence": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "manoeuvreAdvice": [
+            {
+              "executantID": 149,
+              "submaneuvres": [
+                {
+                  "submanoeuvreId": 0,
+                  "advisedTrajectory": {
+                    "wayPointType": 1,
+                    "wayPoints": [
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      },
+                      {
+                        "pathPosition": {
+                          "deltaLatitude": -0.000388,
+                          "deltaLongitude": 0.0002463,
+                          "deltaAltitude": 0.0
+                        }
+                      }
+                    ],
+                    "speed": [
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      },
+                      {
+                        "speedValue": 0.0,
+                        "speedConfidence": 1.0
+                      }
+                    ]
+                  },
+                  "advisedTargetRoadResource": {
+                    "trrDescription": {
+                      "trrType": 2,
+                      "laneCount": 2,
+                      "trrWidth": 5,
+                      "trrLength": 1,
+                      "waypoints": [
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        },
+                        {
+                          "pathPosition": {
+                            "deltaLatitude": -0.000388,
+                            "deltaLongitude": 0.0002463,
+                            "deltaAltitude": 0.0
+                          }
+                        }
+                      ],
+                      "heading": [
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        },
+                        {
+                          "value": 1554,
+                          "confidence": 1
+                        }
+                      ]
+                    },
+                    "temporalCharacteristics": {
+                      "tRROccupancyStartTime": 1,
+                      "tRROccupancyEndTime": 2
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "test": {
+    "start_processing_timestamp": 1777297091.938897,
+    "channel_frequency": 5880,
+    "channel_busy_time": 0.010033,
+    "channel_rx_time": 0.004199,
+    "channel_tx_time": 0.003162,
+    "json_timestamp": 1777297091.939788,
+    "start_processing_timestamp2": 1777297091.939153,
+    "encoded_timestamp": 1777297091.939613,
+    "full_dds_timestamp": 1777297091.940346,
+    "full_local_timestamp": 1777297091.940467,
+    "full_remote_timestamp": 1777297091.94055
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "timestamp": 1791833766.992764,
+  "stationID": 200,
+  "stationAddr": "6e:06:e0:02:00:ee",
+  "receiverID": 200,
+  "receiverType": 5,
+  "fields": {
+    "header": {
+      "protocolVersion": 2,
+      "messageId": 2,
+      "stationId": 200
+    },
+    "cam": {
+      "camParameters": {
+        "basicContainer": {
+          "stationType": 5,
+          "referencePosition": {
+            "latitude": 40.628902118895155,
+            "longitude": -8.654394802040462,
+            "positionConfidenceEllipse": {
+              "semiMajorAxisLength": 4095,
+              "semiMinorAxisLength": 4095,
+              "semiMajorAxisOrientation": 3601
+            },
+            "altitude": {
+              "altitudeValue": 800001,
+              "altitudeConfidence": 15
+            }
+          }
+        },
+        "highFrequencyContainer": {
+          "basicVehicleContainerHighFrequency": {
+            "heading": {
+              "headingValue": 212.87940979003903,
+              "headingConfidence": 127
+            },
+            "speed": {
+              "speedValue": 0.759556252038181,
+              "speedConfidence": 127
+            },
+            "driveDirection": 2,
+            "vehicleLength": {
+              "vehicleLengthValue": 1023,
+              "vehicleLengthConfidenceIndication": 4
+            },
+            "vehicleWidth": 62,
+            "longitudinalAcceleration": {
+              "value": 0.97,
+              "confidence": 102
+            },
+            "curvature": {
+              "curvatureValue": 1023,
+              "curvatureConfidence": 7
+            },
+            "curvatureCalculationMode": 2,
+            "yawRate": {
+              "yawRateValue": 0.0,
+              "yawRateConfidence": 8
+            }
+          }
+        }
+      },
+      "generationDeltaTime": 50254
+    }
+  },
+  "test": {
+    "wave_timestamp": 1791833766.993991,
+    "start_processing_timestamp": 1791833766.992873
+  }
+}

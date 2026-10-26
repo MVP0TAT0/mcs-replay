@@ -1,0 +1,53 @@
+{
+  "timestamp": 1777297093.516173,
+  "rssi": -14,
+  "stationID": 149,
+  "stationAddr": "6e:06:e0:02:00:b3",
+  "receiverID": 200,
+  "receiverType": 5,
+  "packet_size": 92,
+  "fields": {
+    "header": {
+      "protocolVersion": 2,
+      "messageId": 20,
+      "stationId": 149
+    },
+    "payload": {
+      "basicContainer": {
+        "generationDeltaTime": 704381898.48,
+        "stationID": 149,
+        "stationType": 1,
+        "itssRole": 1,
+        "position": {
+          "latitude": 40.6281394,
+          "longitude": -8.6542425,
+          "positionConfidenceEllipse": {
+            "semiMajorAxisLength": 0,
+            "semiMinorAxisLength": 0,
+            "semiMajorAxisOrientation": 0
+          },
+          "altitude": {
+            "altitudeValue": 0.0,
+            "altitudeConfidence": 0
+          }
+        },
+        "mcmType": 4,
+        "manoeuvreId": 1,
+        "concept": 0,
+        "executionStatus": 2
+      },
+      "mcmContainer": {
+        "terminationContainer": {}
+      }
+    }
+  },
+  "test": {
+    "start_processing_timestamp": 1777297093.516383,
+    "channel_frequency": 5880,
+    "channel_noise": -95,
+    "channel_busy_time": 0.010833,
+    "channel_rx_time": 0.005457,
+    "channel_tx_time": 0.004269,
+    "json_timestamp": 1777297093.517252
+  }
+}

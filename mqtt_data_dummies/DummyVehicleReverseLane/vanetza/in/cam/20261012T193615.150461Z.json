@@ -1,0 +1,52 @@
+{
+  "camParameters": {
+    "basicContainer": {
+      "stationType": 5,
+      "referencePosition": {
+        "latitude": 40.62806701660156,
+        "longitude": -8.654088020324707,
+        "positionConfidenceEllipse": {
+          "semiMajorAxisLength": 4095,
+          "semiMinorAxisLength": 4095,
+          "semiMajorAxisOrientation": 3601
+        },
+        "altitude": {
+          "altitudeValue": 800001,
+          "altitudeConfidence": 15
+        }
+      }
+    },
+    "highFrequencyContainer": {
+      "basicVehicleContainerHighFrequency": {
+        "heading": {
+          "headingValue": 335.86907958984375,
+          "headingConfidence": 127
+        },
+        "speed": {
+          "speedValue": 0.8500000238418579,
+          "speedConfidence": 127
+        },
+        "driveDirection": 2,
+        "vehicleLength": {
+          "vehicleLengthValue": 1023,
+          "vehicleLengthConfidenceIndication": 4
+        },
+        "vehicleWidth": 62,
+        "longitudinalAcceleration": {
+          "value": 161,
+          "confidence": 102
+        },
+        "curvature": {
+          "curvatureValue": 1023,
+          "curvatureConfidence": 7
+        },
+        "curvatureCalculationMode": 2,
+        "yawRate": {
+          "yawRateValue": 32767,
+          "yawRateConfidence": 8
+        }
+      }
+    }
+  },
+  "generationDeltaTime": 58425
+}

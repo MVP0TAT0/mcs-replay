@@ -1,0 +1,1708 @@
+[
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.924407",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/pose_converter/list_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/pose_converter/list_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.922678",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/pose_converter/describe_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/pose_converter/describe_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.918806",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/pose_converter/set_parameters_atomicallyReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Response_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/pose_converter/set_parameters_atomicallyReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.914978",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/pose_converter/set_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/pose_converter/set_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.913076",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/pose_converter/get_parameter_typesReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Response_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/pose_converter/get_parameter_typesReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.912799",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/pose_converter/get_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/pose_converter/get_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.904954",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rq/braking_service/list_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/braking_service/list_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.895829",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/objects_converter/list_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/objects_converter/list_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.895397",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/objects_converter/describe_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/objects_converter/describe_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.895174",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/objects_converter/set_parameters_atomicallyReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/objects_converter/set_parameters_atomicallyReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.894242",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rt/planning/interaction/object_clearance_request",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "diagnostic_msgs::msg::dds_::DiagnosticArray_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rt/planning/interaction/object_clearance_request"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.893215",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/object_coordination_probe/list_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/object_coordination_probe/list_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.891581",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/object_coordination_probe/describe_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/object_coordination_probe/describe_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.880138",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/objects_converter/set_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/objects_converter/set_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.879744",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/objects_converter/get_parameter_typesReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/objects_converter/get_parameter_typesReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.879427",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rr/objects_converter/get_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/objects_converter/get_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.874625",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rt/planning/scenario_planning/trajectory",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "autoware_auto_planning_msgs::msg::dds_::Trajectory_",
+      "writers": []
+    },
+    "name": "rt/planning/scenario_planning/trajectory"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.873179",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rq/lane_changer_node/list_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/lane_changer_node/list_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.872967",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rq/lane_changer_node/describe_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/lane_changer_node/describe_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811188.872436",
+      "discovered_timestamp_simple": "2026-10-12 14:19:48",
+      "domain_id": 0,
+      "name": "rq/lane_changer_node/set_parameters_atomicallyRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Request_",
+      "writers": []
+    },
+    "name": "rq/lane_changer_node/set_parameters_atomicallyRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809953.298808",
+      "discovered_timestamp_simple": "2026-10-12 13:59:13",
+      "domain_id": 0,
+      "name": "rq/pose_converter/set_parameters_atomicallyRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Request_",
+      "writers": []
+    },
+    "name": "rq/pose_converter/set_parameters_atomicallyRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.912729",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rr/vpi/map_to_geographicReply",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "vpi_interfaces::srv::dds_::MapToGeographic_Response_",
+      "writers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/vpi/map_to_geographicReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809953.297793",
+      "discovered_timestamp_simple": "2026-10-12 13:59:13",
+      "domain_id": 0,
+      "name": "rq/pose_converter/get_parameter_typesRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Request_",
+      "writers": []
+    },
+    "name": "rq/pose_converter/get_parameter_typesRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.913489",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rt/object_coordination_probe/internal/wake",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "std_msgs::msg::dds_::Empty_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rt/object_coordination_probe/internal/wake"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809921.817182",
+      "discovered_timestamp_simple": "2026-10-12 13:58:41",
+      "domain_id": 0,
+      "name": "rr/braking_service/describe_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/braking_service/describe_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809991.419419",
+      "discovered_timestamp_simple": "2026-10-12 13:59:51",
+      "domain_id": 0,
+      "name": "rr/object_coordination_probe/get_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/object_coordination_probe/get_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809921.816534",
+      "discovered_timestamp_simple": "2026-10-12 13:58:41",
+      "domain_id": 0,
+      "name": "rr/braking_service/get_parameter_typesReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Response_",
+      "writers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/braking_service/get_parameter_typesReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.912956",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rt/planning/interaction/object_clearance_status",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "diagnostic_msgs::msg::dds_::DiagnosticArray_",
+      "writers": []
+    },
+    "name": "rt/planning/interaction/object_clearance_status"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809900.964626",
+      "discovered_timestamp_simple": "2026-10-12 13:58:20",
+      "domain_id": 0,
+      "name": "ros_discovery_info",
+      "num_readers": 5,
+      "num_writers": 5,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rmw_dds_common::msg::dds_::ParticipantEntitiesInfo_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "ros_discovery_info"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809901.271926",
+      "discovered_timestamp_simple": "2026-10-12 13:58:21",
+      "domain_id": 0,
+      "name": "rt/localization/kinematic_state",
+      "num_readers": 2,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "nav_msgs::msg::dds_::Odometry_",
+      "writers": []
+    },
+    "name": "rt/localization/kinematic_state"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809954.097234",
+      "discovered_timestamp_simple": "2026-10-12 13:59:14",
+      "domain_id": 0,
+      "name": "rq/braking_service/get_parameter_typesRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Request_",
+      "writers": []
+    },
+    "name": "rq/braking_service/get_parameter_typesRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.117625",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rr/lane_changer_node/list_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/lane_changer_node/list_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809901.272644",
+      "discovered_timestamp_simple": "2026-10-12 13:58:21",
+      "domain_id": 0,
+      "name": "rt/localization/acceleration",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "geometry_msgs::msg::dds_::AccelWithCovarianceStamped_",
+      "writers": []
+    },
+    "name": "rt/localization/acceleration"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809921.817337",
+      "discovered_timestamp_simple": "2026-10-12 13:58:41",
+      "domain_id": 0,
+      "name": "rr/braking_service/list_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/braking_service/list_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809954.096888",
+      "discovered_timestamp_simple": "2026-10-12 13:59:14",
+      "domain_id": 0,
+      "name": "rq/braking_service/get_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/braking_service/get_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809893.092797",
+      "discovered_timestamp_simple": "2026-10-12 13:58:13",
+      "domain_id": 0,
+      "name": "vanetza/out/cam",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.0f.ad.83.01.00.44.76.00.00.05.00|0.0.1.c1",
+          "name": "DDSExplorer"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": []
+    },
+    "name": "vanetza/out/cam"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809953.300510",
+      "discovered_timestamp_simple": "2026-10-12 13:59:13",
+      "domain_id": 0,
+      "name": "rq/pose_converter/list_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/pose_converter/list_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809953.297258",
+      "discovered_timestamp_simple": "2026-10-12 13:59:13",
+      "domain_id": 0,
+      "name": "rq/pose_converter/get_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/pose_converter/get_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.974025",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/out/timestamps",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+          "name": "LaneChanger"
+        }
+      ]
+    },
+    "name": "aw/out/timestamps"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.976687",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/in/lane_change/direct",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+          "name": "LaneChanger"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": []
+    },
+    "name": "aw/in/lane_change/direct"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.507081",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/objects_converter/set_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/objects_converter/set_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.911722",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rq/object_coordination_probe/describe_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/object_coordination_probe/describe_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809900.966148",
+      "discovered_timestamp_simple": "2026-10-12 13:58:20",
+      "domain_id": 0,
+      "name": "rt/parameter_events",
+      "num_readers": 5,
+      "num_writers": 4,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::msg::dds_::ParameterEvent_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rt/parameter_events"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809953.299837",
+      "discovered_timestamp_simple": "2026-10-12 13:59:13",
+      "domain_id": 0,
+      "name": "rq/pose_converter/describe_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/pose_converter/describe_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809921.816813",
+      "discovered_timestamp_simple": "2026-10-12 13:58:41",
+      "domain_id": 0,
+      "name": "rr/braking_service/set_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/braking_service/set_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809955.608945",
+      "discovered_timestamp_simple": "2026-10-12 13:59:15",
+      "domain_id": 0,
+      "name": "rt/perception/object_recognition/tracking/objects",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "autoware_auto_perception_msgs::msg::dds_::TrackedObjects_",
+      "writers": []
+    },
+    "name": "rt/perception/object_recognition/tracking/objects"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.976213",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/in/lane_change/overtake/end_point",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+          "name": "LaneChanger"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": []
+    },
+    "name": "aw/in/lane_change/overtake/end_point"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.969499",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/out/pose",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.55.48.2e.00.f2.9f.00.00.00.00|0.0.1.c1",
+          "name": "PoseConverter"
+        }
+      ]
+    },
+    "name": "aw/out/pose"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809953.298373",
+      "discovered_timestamp_simple": "2026-10-12 13:59:13",
+      "domain_id": 0,
+      "name": "rq/pose_converter/set_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/pose_converter/set_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.910158",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rq/object_coordination_probe/get_parameter_typesRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Request_",
+      "writers": []
+    },
+    "name": "rq/object_coordination_probe/get_parameter_typesRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.973803",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/out/lane_change/overtake/start_point",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+          "name": "LaneChanger"
+        }
+      ]
+    },
+    "name": "aw/out/lane_change/overtake/start_point"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809901.265938",
+      "discovered_timestamp_simple": "2026-10-12 13:58:21",
+      "domain_id": 0,
+      "name": "rt/rosout",
+      "num_readers": 0,
+      "num_writers": 5,
+      "readers": [],
+      "type": "rcl_interfaces::msg::dds_::Log_",
+      "writers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        },
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rt/rosout"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.117066",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rr/lane_changer_node/set_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/lane_changer_node/set_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.508158",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/vpi/map_to_geographicRequest",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "vpi_interfaces::srv::dds_::MapToGeographic_Request_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rq/vpi/map_to_geographicRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809921.816944",
+      "discovered_timestamp_simple": "2026-10-12 13:58:41",
+      "domain_id": 0,
+      "name": "rr/braking_service/set_parameters_atomicallyReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Response_",
+      "writers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/braking_service/set_parameters_atomicallyReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.911197",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rq/object_coordination_probe/set_parameters_atomicallyRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Request_",
+      "writers": []
+    },
+    "name": "rq/object_coordination_probe/set_parameters_atomicallyRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809954.097453",
+      "discovered_timestamp_simple": "2026-10-12 13:59:14",
+      "domain_id": 0,
+      "name": "rq/braking_service/set_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/braking_service/set_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.105121",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rq/lane_changer_node/get_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/lane_changer_node/get_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809921.816331",
+      "discovered_timestamp_simple": "2026-10-12 13:58:41",
+      "domain_id": 0,
+      "name": "rr/braking_service/get_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/braking_service/get_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809991.419589",
+      "discovered_timestamp_simple": "2026-10-12 13:59:51",
+      "domain_id": 0,
+      "name": "rr/object_coordination_probe/get_parameter_typesReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Response_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/object_coordination_probe/get_parameter_typesReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.507334",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/objects_converter/set_parameters_atomicallyRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Request_",
+      "writers": []
+    },
+    "name": "rq/objects_converter/set_parameters_atomicallyRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.973528",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/out/objects",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.55.48.4e.00.90.6e.00.00.00.00|0.0.1.c1",
+          "name": "ObjectsConverter"
+        }
+      ]
+    },
+    "name": "aw/out/objects"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.117447",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rr/lane_changer_node/describe_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/lane_changer_node/describe_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809901.273522",
+      "discovered_timestamp_simple": "2026-10-12 13:58:21",
+      "domain_id": 0,
+      "name": "rt/tf",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "tf2_msgs::msg::dds_::TFMessage_",
+      "writers": []
+    },
+    "name": "rt/tf"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809954.099335",
+      "discovered_timestamp_simple": "2026-10-12 13:59:14",
+      "domain_id": 0,
+      "name": "rq/braking_service/set_parameters_atomicallyRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Request_",
+      "writers": []
+    },
+    "name": "rq/braking_service/set_parameters_atomicallyRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809954.100294",
+      "discovered_timestamp_simple": "2026-10-12 13:59:14",
+      "domain_id": 0,
+      "name": "rq/braking_service/describe_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/braking_service/describe_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.116682",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rr/lane_changer_node/get_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/lane_changer_node/get_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809991.420330",
+      "discovered_timestamp_simple": "2026-10-12 13:59:51",
+      "domain_id": 0,
+      "name": "rr/object_coordination_probe/set_parameters_atomicallyReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Response_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/object_coordination_probe/set_parameters_atomicallyReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.975349",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/in/lane_change/overtake/request",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+          "name": "LaneChanger"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": []
+    },
+    "name": "aw/in/lane_change/overtake/request"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809957.211307",
+      "discovered_timestamp_simple": "2026-10-12 13:59:17",
+      "domain_id": 0,
+      "name": "rt/planning/mission_planning/route",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "autoware_planning_msgs::msg::dds_::LaneletRoute_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rt/planning/mission_planning/route"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809991.419818",
+      "discovered_timestamp_simple": "2026-10-12 13:59:51",
+      "domain_id": 0,
+      "name": "rr/object_coordination_probe/set_parametersReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Response_",
+      "writers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/object_coordination_probe/set_parametersReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.507740",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/objects_converter/list_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/objects_converter/list_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.105447",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rq/lane_changer_node/get_parameter_typesRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Request_",
+      "writers": []
+    },
+    "name": "rq/lane_changer_node/get_parameter_typesRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.105736",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rq/lane_changer_node/set_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/lane_changer_node/set_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.116841",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rr/lane_changer_node/get_parameter_typesReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Response_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/lane_changer_node/get_parameter_typesReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809965.117261",
+      "discovered_timestamp_simple": "2026-10-12 13:59:25",
+      "domain_id": 0,
+      "name": "rr/lane_changer_node/set_parameters_atomicallyReply",
+      "num_readers": 0,
+      "num_writers": 1,
+      "readers": [],
+      "type": "rcl_interfaces::srv::dds_::SetParametersAtomically_Response_",
+      "writers": [
+        {
+          "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+          "name": ""
+        }
+      ]
+    },
+    "name": "rr/lane_changer_node/set_parameters_atomicallyReply"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.506080",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/objects_converter/get_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/objects_converter/get_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.506687",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/objects_converter/get_parameter_typesRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameterTypes_Request_",
+      "writers": []
+    },
+    "name": "rq/objects_converter/get_parameter_typesRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809969.507555",
+      "discovered_timestamp_simple": "2026-10-12 13:59:29",
+      "domain_id": 0,
+      "name": "rq/objects_converter/describe_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::DescribeParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/objects_converter/describe_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.909466",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rq/object_coordination_probe/get_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::GetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/object_coordination_probe/get_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.910628",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rq/object_coordination_probe/set_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::SetParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/object_coordination_probe/set_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.911920",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rq/object_coordination_probe/list_parametersRequest",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "rcl_interfaces::srv::dds_::ListParameters_Request_",
+      "writers": []
+    },
+    "name": "rq/object_coordination_probe/list_parametersRequest"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809974.913819",
+      "discovered_timestamp_simple": "2026-10-12 13:59:34",
+      "domain_id": 0,
+      "name": "rt/planning/scenario_planning/lane_driving/motion_planning/obstacle_stop_planner/output/stop_intent",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+          "name": ""
+        }
+      ],
+      "type": "diagnostic_msgs::msg::dds_::DiagnosticArray_",
+      "writers": []
+    },
+    "name": "rt/planning/scenario_planning/lane_driving/motion_planning/obstacle_stop_planner/output/stop_intent"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791809892.976921",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "name": "aw/in/brake",
+      "num_readers": 1,
+      "num_writers": 0,
+      "readers": [
+        {
+          "guid": "01.0f.55.48.76.00.50.37.00.00.00.00|0.0.1.c1",
+          "name": "VPIBrakingService"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": []
+    },
+    "name": "aw/in/brake"
+  }
+]

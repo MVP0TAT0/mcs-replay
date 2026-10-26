@@ -1,0 +1,8 @@
+{
+    "mqtt": {
+        "host": "10.255.194.72",
+        "port": 1883
+    },
+    "messages_root": "mqtt_data_dummies/DummyVehicleReverseLane",
+    "speed": 1.0
+}

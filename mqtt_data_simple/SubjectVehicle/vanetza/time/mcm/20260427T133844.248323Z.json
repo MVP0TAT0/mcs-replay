@@ -1,0 +1,41 @@
+{
+  "timestamp": 1777297124.224773,
+  "stationID": 200,
+  "stationAddr": "6e:06:e0:02:00:ee",
+  "receiverID": 200,
+  "receiverType": 5,
+  "fields": {
+    "mcm": {
+      "basicContainer": {
+        "generationDeltaTime": 704381929.22,
+        "stationID": 200,
+        "stationType": 1,
+        "itssRole": 1,
+        "position": {
+          "latitude": 40.62795163676529,
+          "longitude": -8.654142825924747,
+          "positionConfidenceEllipse": {
+            "semiMajorAxisLength": 0,
+            "semiMinorAxisLength": 0,
+            "semiMajorAxisOrientation": 0
+          },
+          "altitude": {
+            "altitudeValue": 0,
+            "altitudeConfidence": 0
+          }
+        },
+        "mcmType": 4,
+        "manoeuvreId": 1,
+        "concept": 0,
+        "executionStatus": 2
+      },
+      "mcmContainer": {
+        "terminationContainer": {}
+      }
+    }
+  },
+  "test": {
+    "wave_timestamp": 1777297124.225488,
+    "start_processing_timestamp": 1777297124.224891
+  }
+}

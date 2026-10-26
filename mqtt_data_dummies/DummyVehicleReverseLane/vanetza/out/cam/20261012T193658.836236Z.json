@@ -1,0 +1,85 @@
+{
+  "fields": {
+    "header": {
+      "protocolVersion": 2,
+      "messageId": 2,
+      "stationId": 187
+    },
+    "cam": {
+      "generationDeltaTime": 36558,
+      "camParameters": {
+        "basicContainer": {
+          "stationType": 5,
+          "referencePosition": {
+            "latitude": 40.6281548,
+            "longitude": -8.6542072,
+            "positionConfidenceEllipse": {
+              "semiMajorAxisLength": 4095,
+              "semiMinorAxisLength": 4095,
+              "semiMajorAxisOrientation": 3601
+            },
+            "altitude": {
+              "altitudeValue": 800001,
+              "altitudeConfidence": 15
+            }
+          }
+        },
+        "highFrequencyContainer": {
+          "basicVehicleContainerHighFrequency": {
+            "heading": {
+              "headingValue": 155.4,
+              "headingConfidence": 127
+            },
+            "speed": {
+              "speedValue": 0.9,
+              "speedConfidence": 127
+            },
+            "driveDirection": 2,
+            "vehicleLength": {
+              "vehicleLengthValue": 1023,
+              "vehicleLengthConfidenceIndication": 4
+            },
+            "vehicleWidth": 62,
+            "longitudinalAcceleration": {
+              "value": 161,
+              "confidence": 102
+            },
+            "curvature": {
+              "curvatureValue": 1023,
+              "curvatureConfidence": 7
+            },
+            "curvatureCalculationMode": 2,
+            "yawRate": {
+              "yawRateValue": 32767,
+              "yawRateConfidence": 8
+            }
+          }
+        }
+      }
+    }
+  },
+  "secured": false,
+  "test": {
+    "start_processing_timestamp": 1791833818.842068,
+    "channel_frequency": 5880,
+    "channel_busy_time": 0.020132,
+    "channel_rx_time": 0.012112,
+    "channel_tx_time": 0.006753,
+    "json_timestamp": 1791833818.842928,
+    "mcs": {
+      "04:f0:21:64:42:c7": 1,
+      "04:f0:21:96:ba:7f": 8,
+      "6e:06:e0:02:00:95": 1,
+      "6e:06:e0:02:00:bb": 1,
+      "6e:06:e0:02:00:ee": 1,
+      "dc:2c:6e:6a:3a:2f": 1
+    }
+  },
+  "timestamp": 1791833818.841908,
+  "rssi": -18,
+  "stationID": 187,
+  "stationAddr": "6e:06:e0:02:00:bb",
+  "receiverID": 179,
+  "receiverType": 5,
+  "packet_size": 99
+}

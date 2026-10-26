@@ -1,0 +1,258 @@
+[
+  {
+    "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809896.705891",
+      "discovered_timestamp_simple": "2026-10-12 13:58:16",
+      "domain_id": 0,
+      "guid": "01.10.49.ee.40.5c.93.6a.7b.54.cc.b0|0.0.1.c1",
+      "name": "",
+      "reading_topics": [
+        "ros_discovery_info",
+        "rq/object_coordination_probe/get_parametersRequest",
+        "rq/object_coordination_probe/get_parameter_typesRequest",
+        "rq/object_coordination_probe/set_parametersRequest",
+        "rq/object_coordination_probe/set_parameters_atomicallyRequest",
+        "rq/object_coordination_probe/describe_parametersRequest",
+        "rq/object_coordination_probe/list_parametersRequest",
+        "rt/parameter_events",
+        "rr/vpi/map_to_geographicReply",
+        "rt/planning/interaction/object_clearance_status",
+        "rt/object_coordination_probe/internal/wake",
+        "rt/planning/scenario_planning/lane_driving/motion_planning/obstacle_stop_planner/output/stop_intent"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "ros_discovery_info",
+        "rt/rosout",
+        "rr/object_coordination_probe/get_parametersReply",
+        "rr/object_coordination_probe/get_parameter_typesReply",
+        "rr/object_coordination_probe/set_parametersReply",
+        "rr/object_coordination_probe/set_parameters_atomicallyReply",
+        "rr/object_coordination_probe/describe_parametersReply",
+        "rr/object_coordination_probe/list_parametersReply",
+        "rt/parameter_events",
+        "rq/vpi/map_to_geographicRequest",
+        "rt/planning/interaction/object_clearance_request",
+        "rt/object_coordination_probe/internal/wake"
+      ]
+    }
+  },
+  {
+    "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809896.601715",
+      "discovered_timestamp_simple": "2026-10-12 13:58:16",
+      "domain_id": 0,
+      "guid": "01.10.aa.c1.20.74.3d.ca.66.33.dc.c8|0.0.1.c1",
+      "name": "",
+      "reading_topics": [
+        "ros_discovery_info",
+        "rq/braking_service/get_parametersRequest",
+        "rq/braking_service/get_parameter_typesRequest",
+        "rq/braking_service/set_parametersRequest",
+        "rq/braking_service/set_parameters_atomicallyRequest",
+        "rq/braking_service/describe_parametersRequest",
+        "rq/braking_service/list_parametersRequest",
+        "rt/parameter_events"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "ros_discovery_info",
+        "rt/rosout",
+        "rr/braking_service/get_parametersReply",
+        "rr/braking_service/get_parameter_typesReply",
+        "rr/braking_service/set_parametersReply",
+        "rr/braking_service/set_parameters_atomicallyReply",
+        "rr/braking_service/describe_parametersReply",
+        "rr/braking_service/list_parametersReply"
+      ]
+    }
+  },
+  {
+    "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809896.545393",
+      "discovered_timestamp_simple": "2026-10-12 13:58:16",
+      "domain_id": 0,
+      "guid": "01.10.09.4b.8e.d4.f2.19.5c.d1.da.f6|0.0.1.c1",
+      "name": "",
+      "reading_topics": [
+        "ros_discovery_info",
+        "rq/pose_converter/get_parametersRequest",
+        "rq/pose_converter/get_parameter_typesRequest",
+        "rq/pose_converter/set_parametersRequest",
+        "rq/pose_converter/set_parameters_atomicallyRequest",
+        "rq/pose_converter/describe_parametersRequest",
+        "rq/pose_converter/list_parametersRequest",
+        "rt/parameter_events",
+        "rt/localization/kinematic_state",
+        "rt/localization/acceleration",
+        "rt/tf"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "ros_discovery_info",
+        "rt/rosout",
+        "rr/pose_converter/get_parametersReply",
+        "rr/pose_converter/get_parameter_typesReply",
+        "rr/pose_converter/set_parametersReply",
+        "rr/pose_converter/set_parameters_atomicallyReply",
+        "rr/pose_converter/describe_parametersReply",
+        "rr/pose_converter/list_parametersReply",
+        "rt/parameter_events"
+      ]
+    }
+  },
+  {
+    "guid": "01.0f.ad.83.01.00.44.76.00.00.05.00|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809892.965325",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "guid": "01.0f.ad.83.01.00.44.76.00.00.05.00|0.0.1.c1",
+      "name": "DDSExplorer",
+      "reading_topics": [
+        "vanetza/out/cam"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": []
+    }
+  },
+  {
+    "guid": "01.0f.55.48.76.00.50.37.00.00.00.00|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809892.959553",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "guid": "01.0f.55.48.76.00.50.37.00.00.00.00|0.0.1.c1",
+      "name": "VPIBrakingService",
+      "reading_topics": [
+        "aw/in/brake"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": []
+    }
+  },
+  {
+    "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809896.329194",
+      "discovered_timestamp_simple": "2026-10-12 13:58:16",
+      "domain_id": 0,
+      "guid": "01.10.55.7f.87.db.8e.1a.be.68.64.51|0.0.1.c1",
+      "name": "",
+      "reading_topics": [
+        "ros_discovery_info",
+        "rq/objects_converter/get_parametersRequest",
+        "rq/objects_converter/get_parameter_typesRequest",
+        "rq/objects_converter/set_parametersRequest",
+        "rq/objects_converter/set_parameters_atomicallyRequest",
+        "rq/objects_converter/describe_parametersRequest",
+        "rq/objects_converter/list_parametersRequest",
+        "rt/parameter_events",
+        "rq/vpi/map_to_geographicRequest",
+        "rt/perception/object_recognition/tracking/objects"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "ros_discovery_info",
+        "rt/rosout",
+        "rr/objects_converter/get_parametersReply",
+        "rr/objects_converter/get_parameter_typesReply",
+        "rr/objects_converter/set_parametersReply",
+        "rr/objects_converter/set_parameters_atomicallyReply",
+        "rr/objects_converter/describe_parametersReply",
+        "rr/objects_converter/list_parametersReply",
+        "rt/parameter_events",
+        "rr/vpi/map_to_geographicReply"
+      ]
+    }
+  },
+  {
+    "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809892.955065",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "guid": "01.0f.55.48.a8.00.6e.10.00.00.00.00|0.0.1.c1",
+      "name": "LaneChanger",
+      "reading_topics": [
+        "aw/in/lane_change/overtake/request",
+        "aw/in/lane_change/overtake/end_point",
+        "aw/in/lane_change/direct"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "aw/out/lane_change/overtake/start_point",
+        "aw/out/timestamps"
+      ]
+    }
+  },
+  {
+    "guid": "01.0f.55.48.4e.00.90.6e.00.00.00.00|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809892.953977",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "guid": "01.0f.55.48.4e.00.90.6e.00.00.00.00|0.0.1.c1",
+      "name": "ObjectsConverter",
+      "reading_topics": [],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "aw/out/objects"
+      ]
+    }
+  },
+  {
+    "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809896.763362",
+      "discovered_timestamp_simple": "2026-10-12 13:58:16",
+      "domain_id": 0,
+      "guid": "01.10.cf.12.47.0f.57.b0.be.1c.c5.e1|0.0.1.c1",
+      "name": "",
+      "reading_topics": [
+        "ros_discovery_info",
+        "rq/lane_changer_node/get_parametersRequest",
+        "rq/lane_changer_node/get_parameter_typesRequest",
+        "rq/lane_changer_node/set_parametersRequest",
+        "rq/lane_changer_node/set_parameters_atomicallyRequest",
+        "rq/lane_changer_node/describe_parametersRequest",
+        "rq/lane_changer_node/list_parametersRequest",
+        "rt/parameter_events",
+        "rt/localization/kinematic_state",
+        "rt/planning/scenario_planning/trajectory",
+        "rt/planning/mission_planning/route"
+      ],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "ros_discovery_info",
+        "rt/rosout",
+        "rr/lane_changer_node/get_parametersReply",
+        "rr/lane_changer_node/get_parameter_typesReply",
+        "rr/lane_changer_node/set_parametersReply",
+        "rr/lane_changer_node/set_parameters_atomicallyReply",
+        "rr/lane_changer_node/describe_parametersReply",
+        "rr/lane_changer_node/list_parametersReply",
+        "rt/parameter_events",
+        "rt/planning/mission_planning/route"
+      ]
+    }
+  },
+  {
+    "guid": "01.0f.55.48.2e.00.f2.9f.00.00.00.00|0.0.1.c1",
+    "info": {
+      "discovered_timestamp": "1791809892.950232",
+      "discovered_timestamp_simple": "2026-10-12 13:58:12",
+      "domain_id": 0,
+      "guid": "01.0f.55.48.2e.00.f2.9f.00.00.00.00|0.0.1.c1",
+      "name": "PoseConverter",
+      "reading_topics": [],
+      "status": "DISCOVERED",
+      "writing_topics": [
+        "aw/out/pose"
+      ]
+    }
+  }
+]

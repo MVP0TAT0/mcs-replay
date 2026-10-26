@@ -1,0 +1,202 @@
+[
+  {
+    "info": {
+      "discovered_timestamp": "1791833358.620424",
+      "discovered_timestamp_simple": "2026-10-12 20:29:18",
+      "domain_id": 149,
+      "name": "hiinterface/request_forward",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.23.00.77.94.01.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.24.00.7e.69.04.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ]
+    },
+    "name": "hiinterface/request_forward"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791814068.725558",
+      "discovered_timestamp_simple": "2026-10-12 15:07:48",
+      "domain_id": 149,
+      "name": "vanetza/out/mcm",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.24.00.7e.69.02.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.32.00.ef.4a.00.00.00.00|0.0.1.c1",
+          "name": "Vanetza"
+        }
+      ]
+    },
+    "name": "vanetza/out/mcm"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791833358.454576",
+      "discovered_timestamp_simple": "2026-10-12 20:29:18",
+      "domain_id": 149,
+      "name": "hiinterface/request_answer",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.24.00.7e.69.05.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.23.00.77.94.00.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ]
+    },
+    "name": "hiinterface/request_answer"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791814068.718454",
+      "discovered_timestamp_simple": "2026-10-12 15:07:48",
+      "domain_id": 149,
+      "name": "vanetza/in/mcm",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.32.00.ef.4a.00.00.00.00|0.0.1.c1",
+          "name": "Vanetza"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.24.00.7e.69.00.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ]
+    },
+    "name": "vanetza/in/mcm"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791833358.964881",
+      "discovered_timestamp_simple": "2026-10-12 20:29:18",
+      "domain_id": 149,
+      "name": "maneuver",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.24.00.7e.69.03.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.25.00.2e.77.03.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ]
+    },
+    "name": "maneuver"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791833359.155791",
+      "discovered_timestamp_simple": "2026-10-12 20:29:19",
+      "domain_id": 149,
+      "name": "maneuver_response",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.25.00.2e.77.05.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.24.00.7e.69.01.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ]
+    },
+    "name": "maneuver_response"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811171.926763",
+      "discovered_timestamp_simple": "2026-10-12 14:19:31",
+      "domain_id": 149,
+      "name": "vanetza/out/cam",
+      "num_readers": 3,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.25.00.2e.77.06.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        },
+        {
+          "guid": "01.0f.96.e2.26.00.ec.75.00.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        },
+        {
+          "guid": "01.0f.96.e2.01.00.e0.6b.00.00.00.00|0.0.1.c1",
+          "name": "DDSExplorer"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.32.00.ef.4a.00.00.00.00|0.0.1.c1",
+          "name": "Vanetza"
+        }
+      ]
+    },
+    "name": "vanetza/out/cam"
+  },
+  {
+    "info": {
+      "discovered_timestamp": "1791811171.920451",
+      "discovered_timestamp_simple": "2026-10-12 14:19:31",
+      "domain_id": 149,
+      "name": "vanetza/in/cam",
+      "num_readers": 1,
+      "num_writers": 1,
+      "readers": [
+        {
+          "guid": "01.0f.96.e2.32.00.ef.4a.00.00.00.00|0.0.1.c1",
+          "name": "Vanetza"
+        }
+      ],
+      "type": "JSONMessage",
+      "writers": [
+        {
+          "guid": "01.0f.96.e2.25.00.2e.77.00.00.00.00|0.0.1.c1",
+          "name": "RTPSParticipant"
+        }
+      ]
+    },
+    "name": "vanetza/in/cam"
+  }
+]

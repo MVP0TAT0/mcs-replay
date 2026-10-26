@@ -1,0 +1,57 @@
+{
+  "timestamp": 1777297124.226354,
+  "rssi": -15,
+  "stationID": 200,
+  "stationAddr": "6e:06:e0:02:00:ee",
+  "receiverID": 149,
+  "receiverType": 5,
+  "packet_size": 92,
+  "fields": {
+    "header": {
+      "protocolVersion": 2,
+      "messageId": 20,
+      "stationId": 200
+    },
+    "payload": {
+      "basicContainer": {
+        "generationDeltaTime": 704381929.22,
+        "stationID": 200,
+        "stationType": 1,
+        "itssRole": 1,
+        "position": {
+          "latitude": 40.6279516,
+          "longitude": -8.6541428,
+          "positionConfidenceEllipse": {
+            "semiMajorAxisLength": 0,
+            "semiMinorAxisLength": 0,
+            "semiMajorAxisOrientation": 0
+          },
+          "altitude": {
+            "altitudeValue": 0.0,
+            "altitudeConfidence": 0
+          }
+        },
+        "mcmType": 4,
+        "manoeuvreId": 1,
+        "concept": 0,
+        "executionStatus": 2
+      },
+      "mcmContainer": {
+        "terminationContainer": {}
+      }
+    }
+  },
+  "test": {
+    "start_processing_timestamp": 1777297124.226453,
+    "channel_frequency": 5880,
+    "channel_busy_time": 0.010283,
+    "channel_rx_time": 0.004315,
+    "channel_tx_time": 0.003238,
+    "json_timestamp": 1777297124.226707,
+    "start_processing_timestamp2": 1777297124.226576,
+    "encoded_timestamp": 1777297124.226685,
+    "full_dds_timestamp": 1777297124.227082,
+    "full_local_timestamp": 1777297124.227152,
+    "full_remote_timestamp": 1777297124.227213
+  }
+}

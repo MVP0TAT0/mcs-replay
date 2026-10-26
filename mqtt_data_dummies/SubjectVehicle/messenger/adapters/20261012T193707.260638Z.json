@@ -1,0 +1,11 @@
+{
+  "latitude": 40.6275593215716,
+  "longitude": -8.653570759365795,
+  "speedValue": 0.6292244870683741,
+  "headingValue": 91.36795043945312,
+  "yawRateValue": 0.0,
+  "longitudinalAcceleration": {
+    "value": -0.7,
+    "confidence": 1023
+  }
+}

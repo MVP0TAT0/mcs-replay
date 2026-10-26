@@ -1,0 +1,57 @@
+{
+  "basicContainer": {
+    "generationDeltaTime": 718918614.39,
+    "stationID": 200,
+    "stationType": 1,
+    "itssRole": 1,
+    "position": {
+      "latitude": 40.62782612208228,
+      "longitude": -8.654033538092113,
+      "positionConfidenceEllipse": {
+        "semiMajorAxisLength": 0,
+        "semiMinorAxisLength": 0,
+        "semiMajorAxisOrientation": 0
+      },
+      "altitude": {
+        "altitudeValue": 0,
+        "altitudeConfidence": 0
+      }
+    },
+    "mcmType": 7,
+    "manoeuvreId": 1,
+    "concept": 0,
+    "executionStatus": 1
+  },
+  "mcmContainer": {
+    "vehicleManoeuvreContainer": {
+      "vehicleCurrentStateContainer": {
+        "vehicleSpeed": {
+          "speedValue": 3.2000010022240044,
+          "speedConfidence": 1
+        },
+        "vehicleHeading": {
+          "value": 175.28878784179688,
+          "confidence": 1
+        },
+        "vehicleSize": {
+          "vehicleType": 0,
+          "vehicleLenth": {
+            "vehicleLengthValue": 2,
+            "vehicleLengthConfidenceIndication": 0
+          },
+          "vehicleWidth": 61,
+          "vehicleHeight": 15
+        }
+      },
+      "submaneuvres": [
+        {
+          "submanoeuvreID": 0,
+          "temporalCharateristics": {
+            "tRROccupancyStartTime": 1,
+            "tRROccupancyEndTime": 2
+          }
+        }
+      ]
+    }
+  }
+}
